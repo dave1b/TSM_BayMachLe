@@ -9,6 +9,7 @@ numpy = "*"
 scipy = "*"
 matplotlib = "*"
 jupyter = "*"
+preliz = "*"
 
 [dev-packages]
 
