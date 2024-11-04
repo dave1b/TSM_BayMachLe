@@ -15,6 +15,7 @@ seaborn = "*"
 pymc = "*"
 graphviz = "*"
 bambi = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
