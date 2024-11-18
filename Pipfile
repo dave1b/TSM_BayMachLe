@@ -16,6 +16,7 @@ pymc = "*"
 graphviz = "*"
 bambi = "*"
 scikit-learn = "*"
+nutpie = "*"
 
 [dev-packages]
 
