@@ -17,6 +17,9 @@ graphviz = "*"
 bambi = "*"
 scikit-learn = "*"
 nutpie = "*"
+tensorflow = "*"
+tensorflow-probability = "*"
+tf-keras = "*"
 
 [dev-packages]
 
