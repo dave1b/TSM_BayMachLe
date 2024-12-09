@@ -20,6 +20,7 @@ nutpie = "*"
 tensorflow = "*"
 tensorflow-probability = "*"
 tf-keras = "*"
+pgmpy = "*"
 
 [dev-packages]
 
